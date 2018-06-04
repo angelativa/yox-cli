@@ -15,7 +15,7 @@
     "ora": "^2.1.0"
   },
   "bin": {
-    "yox-cli": "yox-cli.js"
+    "build-yox": "bin/yox-cli.js"
   },
   "devDependencies": {},
   "description": ""
