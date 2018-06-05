@@ -13,7 +13,7 @@ build-yox init
 ```
 
 ```
-    cd my-react // 进入项目目录
+    cd my-project // 进入项目目录
     npm install // 安装项目依赖
     npm start // 运行项目
 ```
