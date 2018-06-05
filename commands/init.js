@@ -27,7 +27,8 @@ const question = [
     transformer(val) {
       return val;
     }
-  }, {
+  },
+  {
     type: 'list',
     name: 'template',
     message: 'Project template',
@@ -39,7 +40,8 @@ const question = [
     transformer(val) {
       return val;
     }
-  }, {
+  },
+  {
     type: 'input',
     name: 'description',
     message: 'Project description',
@@ -50,7 +52,8 @@ const question = [
     transformer(val) {
       return val;
     }
-  }, {
+  },
+  {
     type: 'input',
     name: 'author',
     message: 'Author',
