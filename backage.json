@@ -1,1 +1,3 @@
-"bin": {"build-yox": "bin/yox-cli"}
+"bin": {
+  "yox": "bin/yox-cli"
+}
